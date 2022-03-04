@@ -52,7 +52,7 @@ if (loop % 2 == 0)
     cout << "your midian = " << (num[loop/2]+num[(loop/2)+1]/2) << endl;
 }
 else {
-    cout << "your midian = " << num[(loop/2)+1] << endl;
+    cout << "your midian = " << num[(loop/2)] << endl;
 }
 
 
